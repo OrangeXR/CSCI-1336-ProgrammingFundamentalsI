@@ -6,8 +6,9 @@
 using namespace std;
 int main()
 {
-	cout << "Luis Morales\n" << "120 Holly St. \n" << "San Antonio, TX 78207\n" << "(210) 727-7211\n" << "Veterinary Technology\n\n" ;
+	cout << "Luis Morales\n" << "120 *********. \n" << "San Antonio, TX *******\n" << "(210) ***-****\n" << "**********\n\n" ;
 	
 	system("PAUSE");
 	return 0;
 	}
+
