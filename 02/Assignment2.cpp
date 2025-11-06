@@ -11,12 +11,12 @@ int main()
 	string name, address, city, state, zip, phone, major;
 	
 	name = "Luis Morales";
-	address = "120 Holly St.";
+	address = "120 *******.";
 	city = "San Antonio";
 	state = "TX";
-	zip = "78207";
-	phone = "(210) 727-7211";
-	major = "Veterinary Technology";
+	zip = "*******";
+	phone = "(***) ***-****";
+	major = "***********";
 	
 	cout << name << "\n" << address << "\n" << city << ", " << state << " " << zip << "\n" << phone << "\n"<< major <<endl;
 	
